@@ -1,3 +1,5 @@
+//created by running npx create-react-app
+
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { Box } from '@mui/material';
 import { Navbar,Feed,VideoDetail,ChannelDetail,SearchFeed } from './components';
