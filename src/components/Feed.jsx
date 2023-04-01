@@ -8,7 +8,7 @@ import { fetchFromApi } from '../utils/fetchFromApi';
 //we are making the sidebar here and shows video from the API
 const Feed = () => {
 
-const [selectedCategory, setselectedCategory] = useState('New');
+const [selectedCategory, setselectedCategory] = useState('New');//it shows the video name in which we clicked
 const [videos, setVideos] = useState([]);
 
   useEffect(() => {
