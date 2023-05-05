@@ -1,8 +1,7 @@
 module.exports = {
-    // ...
-    resolve: {
-      fallback: {
-        "os": require.resolve("os-browserify/browser")
-      }
+  resolve: {
+    fallback: {
+      "os": require.resolve("os-browserify/browser")
     }
+  }
   };
