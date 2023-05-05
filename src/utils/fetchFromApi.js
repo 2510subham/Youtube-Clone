@@ -1,8 +1,6 @@
 import axios from 'axios'
-// import dotenv from 'dotenv'
-// dotenv.config();
-// 'fa26cf10d6msh369581a02062259p175cf0jsnd6e14f7f7494'
-
+import dotenv from 'dotenv'
+dotenv.config();
 
 const BaseURL='https://youtube-v31.p.rapidapi.com'
 const options = {
