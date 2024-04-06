@@ -1,4 +1,4 @@
-## YOU-tube clone
+## Youtube 
 
  You tube clone made with react and material ui
 
